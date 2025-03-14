@@ -39,9 +39,6 @@ const apiFetch = async (ip) => {
 };
 ```
 
-## Consideraciones de seguridad
-🚨 **IMPORTANTE**: Nunca expongas tu API Key en repositorios públicos. Usa variables de entorno o archivos `.env` para protegerla.
-
 ## Licencia
 Este proyecto está bajo la licencia MIT.
 
